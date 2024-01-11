@@ -4,65 +4,399 @@
     "name": "Magazine",
     "price": 8.99,
     "imgUrl": "/imgs/book.jpg",
-    "rating":4.2,
-    "category":"Book"
+    "rating": 4.2,
+    "category": "Book"
   },
   {
     "id": 2,
     "name": "Laptop",
     "price": 1099,
     "imgUrl": "/imgs/computer.jpg",
-    "rating":3.5,
-    "category":"Computer"
+    "rating": 3.1,
+    "category": "Computer"
   },
   {
     "id": 3,
     "name": "Fruits",
     "price": 1.12,
     "imgUrl": "/imgs/banana.jpg",
-    "rating":1.3,
-    "category":"Banana"
+    "rating": 1.7,
+    "category": "Banana"
   },
   {
     "id": 4,
     "name": "Taxi",
     "price": 13600,
     "imgUrl": "/imgs/car.jpg",
-    "rating":2.5,
-    "category":"Car"
-    
+    "rating": 2.5,
+    "category": "Car"
   },
   {
     "id": 5,
     "name": "Book",
     "price": 10.99,
     "imgUrl": "/imgs/book.jpg",
-    "rating":4.0,
-    "category":"Book"
+    "rating": 4.8,
+    "category": "Book"
   },
   {
     "id": 6,
     "name": "Computer",
     "price": 1199,
     "imgUrl": "/imgs/computer.jpg",
-    "rating":3.0,
-    "category":"Computer"
+    "rating": 3.3,
+    "category": "Computer"
   },
   {
     "id": 7,
     "name": "Banana",
     "price": 1.05,
     "imgUrl": "/imgs/banana.jpg",
-    "rating":1.0,
-    "category":"Banana"
+    "rating": 1.9,
+    "category": "Banana"
   },
   {
     "id": 8,
     "name": "Car",
     "price": 14000,
     "imgUrl": "/imgs/car.jpg",
-    "rating":2.0,
-    "category":"Car"
-    
+    "rating": 2.0,
+    "category": "Car"
+  },
+  {
+    "id": 9,
+    "name": "Magazine",
+    "price": 8.99,
+    "imgUrl": "/imgs/book.jpg",
+    "rating": 4.4,
+    "category": "Book"
+  },
+  {
+    "id": 10,
+    "name": "Laptop",
+    "price": 1099,
+    "imgUrl": "/imgs/computer.jpg",
+    "rating": 3.7,
+    "category": "Computer"
+  },
+  {
+    "id": 11,
+    "name": "Fruits",
+    "price": 1.12,
+    "imgUrl": "/imgs/banana.jpg",
+    "rating": 1.5,
+    "category": "Banana"
+  },
+  {
+    "id": 12,
+    "name": "Taxi",
+    "price": 13600,
+    "imgUrl": "/imgs/car.jpg",
+    "rating": 2.2,
+    "category": "Car"
+  },
+  {
+    "id": 13,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg",
+    "rating": 4.1,
+    "category": "Book"
+  },
+  {
+    "id": 14,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg",
+    "rating": 3.9,
+    "category": "Computer"
+  },
+  {
+    "id": 15,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/banana.jpg",
+    "rating": 1.8,
+    "category": "Banana"
+  },
+  {
+    "id": 16,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/car.jpg",
+    "rating": 2.3,
+    "category": "Car"
+  },
+  {
+    "id": 17,
+    "name": "Magazine",
+    "price": 8.99,
+    "imgUrl": "/imgs/book.jpg",
+    "rating": 4.7,
+    "category": "Book"
+  },
+  {
+    "id": 18,
+    "name": "Laptop",
+    "price": 1099,
+    "imgUrl": "/imgs/computer.jpg",
+    "rating": 3.4,
+    "category": "Computer"
+  },
+  {
+    "id": 19,
+    "name": "Fruits",
+    "price": 1.12,
+    "imgUrl": "/imgs/banana.jpg",
+    "rating": 1.2,
+    "category": "Banana"
+  },
+  {
+    "id": 20,
+    "name": "Taxi",
+    "price": 13600,
+    "imgUrl": "/imgs/car.jpg",
+    "rating": 2.8,
+    "category": "Car"
+  },
+  {
+    "id": 21,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg",
+    "rating": 4.5,
+    "category": "Book"
+  },
+  {
+    "id": 22,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg",
+    "rating": 3.6,
+    "category": "Computer"
+  },
+  {
+    "id": 23,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/banana.jpg",
+    "rating": 1.1,
+    "category": "Banana"
+  },
+  {
+    "id": 24,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/car.jpg",
+    "rating": 2.6,
+    "category": "Car"
+  },
+  {
+    "id": 25,
+    "name": "Magazine",
+    "price": 8.99,
+    "imgUrl": "/imgs/book.jpg",
+    "rating": 4.9,
+    "category": "Book"
+  },
+  {
+    "id": 26,
+    "name": "Laptop",
+    "price": 1099,
+    "imgUrl": "/imgs/computer.jpg",
+    "rating": 3.2,
+    "category": "Computer"
+  },
+  {
+    "id": 27,
+    "name": "Fruits",
+    "price": 1.12,
+    "imgUrl": "/imgs/banana.jpg",
+    "rating": 1.6,
+    "category": "Banana"
+  },
+  {
+    "id": 28,
+    "name": "Taxi",
+    "price": 13600,
+    "imgUrl": "/imgs/car.jpg",
+    "rating": 2.7,
+    "category": "Car"
+  },
+  {
+    "id": 29,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg",
+    "rating": 4.0,
+    "category": "Book"
+  },
+  {
+    "id": 30,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg",
+    "rating": 3.0,
+    "category": "Computer"
+  },
+  {
+    "id": 31,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/banana.jpg",
+    "rating": 1.0,
+    "category": "Banana"
+  },
+  {
+    "id": 32,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/car.jpg",
+    "rating": 2.0,
+    "category": "Car"
+  },
+  {
+    "id": 33,
+    "name": "Magazine",
+    "price": 8.99,
+    "imgUrl": "/imgs/book.jpg",
+    "rating": 4.3,
+    "category": "Book"
+  },
+  {
+    "id": 34,
+    "name": "Laptop",
+    "price": 1099,
+    "imgUrl": "/imgs/computer.jpg",
+    "rating": 3.8,
+    "category": "Computer"
+  },
+  {
+    "id": 35,
+    "name": "Fruits",
+    "price": 1.12,
+    "imgUrl": "/imgs/banana.jpg",
+    "rating": 1.4,
+    "category": "Banana"
+  },
+  {
+    "id": 36,
+    "name": "Taxi",
+    "price": 13600,
+    "imgUrl": "/imgs/car.jpg",
+    "rating": 2.4,
+    "category": "Car"
+  },
+  {
+    "id": 37,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg",
+    "rating": 4.6,
+    "category": "Book"
+  },
+  {
+    "id": 38,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg",
+    "rating": 3.5,
+    "category": "Computer"
+  },
+  {
+    "id": 39,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/banana.jpg",
+    "rating": 1.3,
+    "category": "Banana"
+  },
+  {
+    "id": 40,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/car.jpg",
+    "rating": 2.1,
+    "category": "Car"
+  },
+  {
+    "id": 41,
+    "name": "Magazine",
+    "price": 8.99,
+    "imgUrl": "/imgs/book.jpg",
+    "rating": 4.0,
+    "category": "Book"
+  },
+  {
+    "id": 42,
+    "name": "Laptop",
+    "price": 1099,
+    "imgUrl": "/imgs/computer.jpg",
+    "rating": 3.0,
+    "category": "Computer"
+  },
+  {
+    "id": 43,
+    "name": "Fruits",
+    "price": 1.12,
+    "imgUrl": "/imgs/banana.jpg",
+    "rating": 1.0,
+    "category": "Banana"
+  },
+  {
+    "id": 44,
+    "name": "Taxi",
+    "price": 13600,
+    "imgUrl": "/imgs/car.jpg",
+    "rating": 2.2,
+    "category": "Car"
+  },
+  {
+    "id": 45,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg",
+    "rating": 4.2,
+    "category": "Book"
+  },
+  {
+    "id": 46,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg",
+    "rating": 3.3,
+    "category": "Computer"
+  },
+  {
+    "id": 47,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/banana.jpg",
+    "rating": 1.5,
+    "category": "Banana"
+  },
+  {
+    "id": 48,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/car.jpg",
+    "rating": 2.3,
+    "category": "Car"
+  },
+  {
+    "id": 49,
+    "name": "Magazine",
+    "price": 8.99,
+    "imgUrl": "/imgs/book.jpg",
+    "rating": 4.4,
+    "category": "Book"
+  },
+  {
+    "id": 50,
+    "name": "Laptop",
+    "price": 1099,
+    "imgUrl": "/imgs/computer.jpg",
+    "rating": 3.6,
+    "category": "Computer"
   }
- ]
+]
