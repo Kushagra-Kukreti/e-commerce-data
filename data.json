@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Margherita Pizza",
+    "name": "Pizza",
     "price": 8.99,
     "imgUrl": "/imgs/book.jpg",
     "rating": 4.2,
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "Masala Dosa",
+    "name": "Dosa",
     "price": 1099,
     "imgUrl": "/imgs/computer.jpg",
     "rating": 3.1,
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "name": "Sweet and Sour Chicken",
+    "name": "Chicken",
     "price": 1.12,
     "imgUrl": "/imgs/banana.jpg",
     "rating": 1.7,
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "name": "Beef Bourguignon",
+    "name": "Bourguignon",
     "price": 13600,
     "imgUrl": "/imgs/car.jpg",
     "rating": 2.5,
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "name": "Spaghetti Carbonara",
+    "name": "Carbonara",
     "price": 10.99,
     "imgUrl": "/imgs/book.jpg",
     "rating": 4.8,
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "name": "General Tso's Chicken",
+    "name": "Chicken",
     "price": 1199,
     "imgUrl": "/imgs/computer.jpg",
     "rating": 3.3,
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "name": "Beef Wellington",
+    "name": "Wellington",
     "price": 14000,
     "imgUrl": "/imgs/car.jpg",
     "rating": 2.0,
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "name": "Dim Sum",
+    "name": "Sum",
     "price": 8.99,
     "imgUrl": "/imgs/book.jpg",
     "rating": 4.4,
@@ -81,7 +81,7 @@
   },
   {
     "id": 11,
-    "name": "Kung Pao Chicken",
+    "name": "Chicken",
     "price": 1.12,
     "imgUrl": "/imgs/banana.jpg",
     "rating": 1.5,
@@ -89,7 +89,7 @@
   },
   {
     "id": 12,
-    "name": "Quiche Lorraine",
+    "name": "Lorraine",
     "price": 13600,
     "imgUrl": "/imgs/car.jpg",
     "rating": 2.2,
@@ -105,7 +105,7 @@
   },
   {
     "id": 14,
-    "name": "Fried Rice",
+    "name": "Rice",
     "price": 1199,
     "imgUrl": "/imgs/computer.jpg",
     "rating": 3.9,
@@ -137,7 +137,7 @@
   },
   {
     "id": 18,
-    "name": "Caprese Salad",
+    "name": "Salad",
     "price": 1099,
     "imgUrl": "/imgs/computer.jpg",
     "rating": 3.4,
@@ -145,7 +145,7 @@
   },
   {
     "id": 19,
-    "name": "Chow Mein",
+    "name": "Mein",
     "price": 1.12,
     "imgUrl": "/imgs/banana.jpg",
     "rating": 1.2,
