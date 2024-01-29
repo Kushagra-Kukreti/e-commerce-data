@@ -1,402 +1,162 @@
- [
+[
   {
     "id": 1,
-    "name": "Magazine",
+    "name": "Margherita Pizza",
     "price": 8.99,
     "imgUrl": "/imgs/book.jpg",
     "rating": 4.2,
-    "category": "Book"
+    "category": "Italian"
   },
   {
     "id": 2,
-    "name": "Laptop",
+    "name": "Masala Dosa",
     "price": 1099,
     "imgUrl": "/imgs/computer.jpg",
     "rating": 3.1,
-    "category": "Computer"
+    "category": "South Indian"
   },
   {
     "id": 3,
-    "name": "Fruits",
+    "name": "Sweet and Sour Chicken",
     "price": 1.12,
     "imgUrl": "/imgs/banana.jpg",
     "rating": 1.7,
-    "category": "Banana"
+    "category": "Chinese"
   },
   {
     "id": 4,
-    "name": "Taxi",
+    "name": "Beef Bourguignon",
     "price": 13600,
     "imgUrl": "/imgs/car.jpg",
     "rating": 2.5,
-    "category": "Car"
+    "category": "Continental"
   },
   {
     "id": 5,
-    "name": "Book",
+    "name": "Spaghetti Carbonara",
     "price": 10.99,
     "imgUrl": "/imgs/book.jpg",
     "rating": 4.8,
-    "category": "Book"
+    "category": "Italian"
   },
   {
     "id": 6,
-    "name": "Computer",
+    "name": "General Tso's Chicken",
     "price": 1199,
     "imgUrl": "/imgs/computer.jpg",
     "rating": 3.3,
-    "category": "Computer"
+    "category": "Chinese"
   },
   {
     "id": 7,
-    "name": "Banana",
+    "name": "Biryani",
     "price": 1.05,
     "imgUrl": "/imgs/banana.jpg",
     "rating": 1.9,
-    "category": "Banana"
+    "category": "South Indian"
   },
   {
     "id": 8,
-    "name": "Car",
+    "name": "Beef Wellington",
     "price": 14000,
     "imgUrl": "/imgs/car.jpg",
     "rating": 2.0,
-    "category": "Car"
+    "category": "Continental"
   },
   {
     "id": 9,
-    "name": "Magazine",
+    "name": "Dim Sum",
     "price": 8.99,
     "imgUrl": "/imgs/book.jpg",
     "rating": 4.4,
-    "category": "Book"
+    "category": "Chinese"
   },
   {
     "id": 10,
-    "name": "Laptop",
+    "name": "Croissant",
     "price": 1099,
     "imgUrl": "/imgs/computer.jpg",
     "rating": 3.7,
-    "category": "Computer"
+    "category": "Continental"
   },
   {
     "id": 11,
-    "name": "Fruits",
+    "name": "Kung Pao Chicken",
     "price": 1.12,
     "imgUrl": "/imgs/banana.jpg",
     "rating": 1.5,
-    "category": "Banana"
+    "category": "Chinese"
   },
   {
     "id": 12,
-    "name": "Taxi",
+    "name": "Quiche Lorraine",
     "price": 13600,
     "imgUrl": "/imgs/car.jpg",
     "rating": 2.2,
-    "category": "Car"
+    "category": "Continental"
   },
   {
     "id": 13,
-    "name": "Book",
+    "name": "Tiramisu",
     "price": 10.99,
     "imgUrl": "/imgs/book.jpg",
     "rating": 4.1,
-    "category": "Book"
+    "category": "Italian"
   },
   {
     "id": 14,
-    "name": "Computer",
+    "name": "Fried Rice",
     "price": 1199,
     "imgUrl": "/imgs/computer.jpg",
     "rating": 3.9,
-    "category": "Computer"
+    "category": "Chinese"
   },
   {
     "id": 15,
-    "name": "Banana",
+    "name": "Rasam",
     "price": 1.05,
     "imgUrl": "/imgs/banana.jpg",
     "rating": 1.8,
-    "category": "Banana"
+    "category": "South Indian"
   },
   {
     "id": 16,
-    "name": "Car",
+    "name": "Escargot",
     "price": 14000,
     "imgUrl": "/imgs/car.jpg",
     "rating": 2.3,
-    "category": "Car"
+    "category": "Continental"
   },
   {
     "id": 17,
-    "name": "Magazine",
+    "name": "Idli",
     "price": 8.99,
     "imgUrl": "/imgs/book.jpg",
     "rating": 4.7,
-    "category": "Book"
+    "category": "South Indian"
   },
   {
     "id": 18,
-    "name": "Laptop",
+    "name": "Caprese Salad",
     "price": 1099,
     "imgUrl": "/imgs/computer.jpg",
     "rating": 3.4,
-    "category": "Computer"
+    "category": "Italian"
   },
   {
     "id": 19,
-    "name": "Fruits",
+    "name": "Chow Mein",
     "price": 1.12,
     "imgUrl": "/imgs/banana.jpg",
     "rating": 1.2,
-    "category": "Banana"
+    "category": "Chinese"
   },
   {
     "id": 20,
-    "name": "Taxi",
+    "name": "Upma",
     "price": 13600,
     "imgUrl": "/imgs/car.jpg",
     "rating": 2.8,
-    "category": "Car"
-  },
-  {
-    "id": 21,
-    "name": "Book",
-    "price": 10.99,
-    "imgUrl": "/imgs/book.jpg",
-    "rating": 4.5,
-    "category": "Book"
-  },
-  {
-    "id": 22,
-    "name": "Computer",
-    "price": 1199,
-    "imgUrl": "/imgs/computer.jpg",
-    "rating": 3.6,
-    "category": "Computer"
-  },
-  {
-    "id": 23,
-    "name": "Banana",
-    "price": 1.05,
-    "imgUrl": "/imgs/banana.jpg",
-    "rating": 1.1,
-    "category": "Banana"
-  },
-  {
-    "id": 24,
-    "name": "Car",
-    "price": 14000,
-    "imgUrl": "/imgs/car.jpg",
-    "rating": 2.6,
-    "category": "Car"
-  },
-  {
-    "id": 25,
-    "name": "Magazine",
-    "price": 8.99,
-    "imgUrl": "/imgs/book.jpg",
-    "rating": 4.9,
-    "category": "Book"
-  },
-  {
-    "id": 26,
-    "name": "Laptop",
-    "price": 1099,
-    "imgUrl": "/imgs/computer.jpg",
-    "rating": 3.2,
-    "category": "Computer"
-  },
-  {
-    "id": 27,
-    "name": "Fruits",
-    "price": 1.12,
-    "imgUrl": "/imgs/banana.jpg",
-    "rating": 1.6,
-    "category": "Banana"
-  },
-  {
-    "id": 28,
-    "name": "Taxi",
-    "price": 13600,
-    "imgUrl": "/imgs/car.jpg",
-    "rating": 2.7,
-    "category": "Car"
-  },
-  {
-    "id": 29,
-    "name": "Book",
-    "price": 10.99,
-    "imgUrl": "/imgs/book.jpg",
-    "rating": 4.0,
-    "category": "Book"
-  },
-  {
-    "id": 30,
-    "name": "Computer",
-    "price": 1199,
-    "imgUrl": "/imgs/computer.jpg",
-    "rating": 3.0,
-    "category": "Computer"
-  },
-  {
-    "id": 31,
-    "name": "Banana",
-    "price": 1.05,
-    "imgUrl": "/imgs/banana.jpg",
-    "rating": 1.0,
-    "category": "Banana"
-  },
-  {
-    "id": 32,
-    "name": "Car",
-    "price": 14000,
-    "imgUrl": "/imgs/car.jpg",
-    "rating": 2.0,
-    "category": "Car"
-  },
-  {
-    "id": 33,
-    "name": "Magazine",
-    "price": 8.99,
-    "imgUrl": "/imgs/book.jpg",
-    "rating": 4.3,
-    "category": "Book"
-  },
-  {
-    "id": 34,
-    "name": "Laptop",
-    "price": 1099,
-    "imgUrl": "/imgs/computer.jpg",
-    "rating": 3.8,
-    "category": "Computer"
-  },
-  {
-    "id": 35,
-    "name": "Fruits",
-    "price": 1.12,
-    "imgUrl": "/imgs/banana.jpg",
-    "rating": 1.4,
-    "category": "Banana"
-  },
-  {
-    "id": 36,
-    "name": "Taxi",
-    "price": 13600,
-    "imgUrl": "/imgs/car.jpg",
-    "rating": 2.4,
-    "category": "Car"
-  },
-  {
-    "id": 37,
-    "name": "Book",
-    "price": 10.99,
-    "imgUrl": "/imgs/book.jpg",
-    "rating": 4.6,
-    "category": "Book"
-  },
-  {
-    "id": 38,
-    "name": "Computer",
-    "price": 1199,
-    "imgUrl": "/imgs/computer.jpg",
-    "rating": 3.5,
-    "category": "Computer"
-  },
-  {
-    "id": 39,
-    "name": "Banana",
-    "price": 1.05,
-    "imgUrl": "/imgs/banana.jpg",
-    "rating": 1.3,
-    "category": "Banana"
-  },
-  {
-    "id": 40,
-    "name": "Car",
-    "price": 14000,
-    "imgUrl": "/imgs/car.jpg",
-    "rating": 2.1,
-    "category": "Car"
-  },
-  {
-    "id": 41,
-    "name": "Magazine",
-    "price": 8.99,
-    "imgUrl": "/imgs/book.jpg",
-    "rating": 4.0,
-    "category": "Book"
-  },
-  {
-    "id": 42,
-    "name": "Laptop",
-    "price": 1099,
-    "imgUrl": "/imgs/computer.jpg",
-    "rating": 3.0,
-    "category": "Computer"
-  },
-  {
-    "id": 43,
-    "name": "Fruits",
-    "price": 1.12,
-    "imgUrl": "/imgs/banana.jpg",
-    "rating": 1.0,
-    "category": "Banana"
-  },
-  {
-    "id": 44,
-    "name": "Taxi",
-    "price": 13600,
-    "imgUrl": "/imgs/car.jpg",
-    "rating": 2.2,
-    "category": "Car"
-  },
-  {
-    "id": 45,
-    "name": "Book",
-    "price": 10.99,
-    "imgUrl": "/imgs/book.jpg",
-    "rating": 4.2,
-    "category": "Book"
-  },
-  {
-    "id": 46,
-    "name": "Computer",
-    "price": 1199,
-    "imgUrl": "/imgs/computer.jpg",
-    "rating": 3.3,
-    "category": "Computer"
-  },
-  {
-    "id": 47,
-    "name": "Banana",
-    "price": 1.05,
-    "imgUrl": "/imgs/banana.jpg",
-    "rating": 1.5,
-    "category": "Banana"
-  },
-  {
-    "id": 48,
-    "name": "Car",
-    "price": 14000,
-    "imgUrl": "/imgs/car.jpg",
-    "rating": 2.3,
-    "category": "Car"
-  },
-  {
-    "id": 49,
-    "name": "Magazine",
-    "price": 8.99,
-    "imgUrl": "/imgs/book.jpg",
-    "rating": 4.4,
-    "category": "Book"
-  },
-  {
-    "id": 50,
-    "name": "Laptop",
-    "price": 1099,
-    "imgUrl": "/imgs/computer.jpg",
-    "rating": 3.6,
-    "category": "Computer"
+    "category": "South Indian"
   }
 ]
